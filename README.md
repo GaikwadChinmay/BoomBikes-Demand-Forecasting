@@ -7,3 +7,35 @@ This notebook focusses to model the demand for shared bikes with the available i
 In this notebook, I have built a multiple linear regression model for the prediction of demand for shared bikes using the multiple features available in the dataset
 
 This Linear Regression Model has achieved 82.6% accuracy on training dataset and around 87.6% accuracy on the test dataset. The performance analysis done considering various factors such as p-values from statistical model, R2 , VIF and RFE.
+
+
+
+# Data Set: 
+  The bike rentals dataset from the kaggle
+  - [Dataset](https://www.kaggle.com/chinmaybgaikwad/linear-regression-boombikes/data)
+
+# Data Processing Workflow:
+- Data Inspection
+- Data Validation
+- Missing value imputation
+- Numerical and Categorical data
+- Univariate and Multivariate Analysis
+- Encoding
+
+# Machine Learning:
+- Train Test split of data
+- Feature encoding
+- Feature scaling
+- Linear Regression model
+- Feature selection
+- Preformance analysis
+
+-------------------------------------------------
+  
+Thank You!
+
+- Author: Chinmay Gaikwad
+- Email: [chinmaygaikwad@gmail.com](chinmaygaikwad@gmail.com)
+- Twitter: [Chinmay Gaikwad](https://twitter.com/GaikwadChinmay)
+
+-------------------------------------------------
